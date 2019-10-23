@@ -1,0 +1,9 @@
+D:\w\c#\FlappyClone\FlappyClone\FlappyClone\bin\Debug\FlappyClone.exe.config
+D:\w\c#\FlappyClone\FlappyClone\FlappyClone\bin\Debug\FlappyClone.exe
+D:\w\c#\FlappyClone\FlappyClone\FlappyClone\bin\Debug\FlappyClone.pdb
+D:\w\c#\FlappyClone\FlappyClone\FlappyClone\obj\Debug\FlappyClone.csprojAssemblyReference.cache
+D:\w\c#\FlappyClone\FlappyClone\FlappyClone\obj\Debug\FlappyClone.Form1.resources
+D:\w\c#\FlappyClone\FlappyClone\FlappyClone\obj\Debug\FlappyClone.Properties.Resources.resources
+D:\w\c#\FlappyClone\FlappyClone\FlappyClone\obj\Debug\FlappyClone.csproj.GenerateResource.cache
+D:\w\c#\FlappyClone\FlappyClone\FlappyClone\obj\Debug\FlappyClone.exe
+D:\w\c#\FlappyClone\FlappyClone\FlappyClone\obj\Debug\FlappyClone.pdb
